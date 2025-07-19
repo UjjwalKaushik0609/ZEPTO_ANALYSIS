@@ -1,9 +1,7 @@
 
-<p align="center">
-  <img src=""C:\Users\kaush\OneDrive\Desktop\Zepto-Brand-Journey.jpg"" alt="Zepto Brand Banner" width="700"/>
-</p>
 
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
+![image alt]([Zepto-Brand-Journey.jpg])
 
 This project simulates a **real-world data analyst portfolio** using a scraped inventory dataset from [Zepto](https://www.zeptonow.com/) — one of India's fastest-growing quick-commerce startups.
 
@@ -120,6 +118,3 @@ FROM 'data/zepto_v2.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', QUOTE '"'
 
 ---
 
-<p align="center">
-  <img src=""C:\Users\kaush\OneDrive\Desktop\Zepto-Brand-Journey.jpg"" alt="Zepto Insights" width="700"/>
-</p>
