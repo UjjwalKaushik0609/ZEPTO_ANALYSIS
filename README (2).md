@@ -1,7 +1,7 @@
 
 
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
-![image alt]([https://github.com/<user_or_org>/ZEPTO_ANALYSIS/blob/main/Zepto-Brand-Journey.jpg
+![image alt]([https://github.com/UjjwalKaushik0609/ZEPTO_ANALYSIS/blob/main/Zepto-Brand-Journey.jpg
 ])
 
 This project simulates a **real-world data analyst portfolio** using a scraped inventory dataset from [Zepto](https://www.zeptonow.com/) — one of India's fastest-growing quick-commerce startups.
